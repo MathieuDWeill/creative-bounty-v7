@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.5",
+  "run": {
+    "run_id": "86a788b9-e8cd-42d9-a355-562a97669d9b",
+    "tenant_id": null,
+    "project_id": null,
+    "name": "creative-bounty-live-genblaze-pollinations-flux-proof-001",
+    "status": "completed",
+    "steps": [
+      {
+        "step_id": "42dad8de-17f4-4e80-a0e4-4c64fe15cc3f",
+        "run_id": "86a788b9-e8cd-42d9-a355-562a97669d9b",
+        "provider": "pollinations-image",
+        "model": "flux",
+        "step_type": "generate",
+        "model_version": null,
+        "model_hash": null,
+        "modality": "image",
+        "prompt": "Create a submission-ready video asset for this paid creative brief: Controlled LIVE Genblaze Pollinations Flux proof image. Required deliverables: 15s vertical video, thumbnail. Respect the brief faithfully; do not invent brand claims.",
+        "negative_prompt": null,
+        "prompt_visibility": "public",
+        "seed": null,
+        "params": {},
+        "status": "succeeded",
+        "inputs": [],
+        "assets": [
+          {
+            "asset_id": "d05987b4-fbfe-4f21-981b-7bb09e3e488b",
+            "url": "https://s3.us-east-005.backblazeb2.com/creative-bounty-mathieu-2026/genblaze/runs/2026-07-29/86a788b9-e8cd-42d9-a355-562a97669d9b/assets/d05987b4-fbfe-4f21-981b-7bb09e3e488b.jpg",
+            "media_type": "image/jpeg",
+            "sha256": "6a1e69f82b93dbfadcaf9f86a672f611bf2f76675ee262d4bf79f7ee1f23c441",
+            "size_bytes": 106450,
+            "width": null,
+            "height": null,
+            "duration": null,
+            "video": null,
+            "audio": null,
+            "tracks": null,
+            "metadata": {}
+          }
+        ],
+        "provider_payload": {},
+        "retries": 0,
+        "cost_usd": null,
+        "error": null,
+        "error_code": null,
+        "started_at": "2026-07-29T19:56:53.251374Z",
+        "completed_at": "2026-07-29T19:56:59.484640Z",
+        "step_index": 0,
+        "metadata": {
+          "upstream_id": "https://image.pollinations.ai/prompt/Create%20a%20submission-ready%20video%20asset%20for%20this%20paid%20creative%20brief%3A%20Controlled%20LIVE%20Genblaze%20Pollinations%20Flux%20proof%20image.%20Required%20deliverables%3A%2015s%20vertical%20video%2C%20thumbnail.%20Respect%20the%20brief%20faithfully%3B%20do%20not%20invent%20brand%20claims.?width=1024&height=1024&seed=20260729&model=flux&nologo=true&safe=true"
+        }
+      }
+    ],
+    "parent_run_id": null,
+    "idempotency_key": null,
+    "created_at": "2026-07-29T19:56:59.491503Z",
+    "started_at": "2026-07-29T19:56:53.249255Z",
+    "completed_at": "2026-07-29T19:56:59.491649Z",
+    "metadata": {}
+  },
+  "canonical_hash": "d4ae8034cc836a890a7f498bb512341448563a71230c180dddf0efa96c335e13",
+  "manifest_uri": "https://s3.us-east-005.backblazeb2.com/creative-bounty-mathieu-2026/genblaze/runs/2026-07-29/86a788b9-e8cd-42d9-a355-562a97669d9b/manifest.json",
+  "encryption_scheme": null,
+  "signature": null,
+  "transfer_failures": []
+}
