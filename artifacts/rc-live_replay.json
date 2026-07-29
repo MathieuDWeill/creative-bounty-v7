@@ -1,0 +1,11 @@
+{
+  "name": "live_replay",
+  "command": [
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/.venv/bin/python",
+    "scripts/replay_evidence.py",
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/artifacts/evidence/live-genblaze-pollinations-flux-proof-001"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"opportunity_id\": \"live-genblaze-pollinations-flux-proof-001\",\n  \"mode\": \"LIVE\",\n  \"verified\": true,\n  \"audit_verified\": true,\n  \"certificate_verified\": true,\n  \"accepted_attempt\": 1,\n  \"event_count\": 6,\n  \"generation_count\": 1,\n  \"errors\": []\n}\n",
+  "stderr": ""
+}

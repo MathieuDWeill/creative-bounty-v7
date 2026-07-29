@@ -1,0 +1,7 @@
+{
+  "kind": "SAMPLE_SHA256",
+  "verified": true,
+  "asset_sha256": "e822952617fac8cc020e61495a8226031aff664b78d8f631d990c2ff693b3807",
+  "canonical_hash": null,
+  "note": "Local SHA-256 integrity check; not a Genblaze provenance manifest."
+}

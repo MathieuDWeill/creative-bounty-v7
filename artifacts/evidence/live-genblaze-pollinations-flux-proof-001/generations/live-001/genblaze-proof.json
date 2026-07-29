@@ -1,0 +1,11 @@
+{
+  "sample": false,
+  "provider_url": "https://s3.us-east-005.backblazeb2.com/creative-bounty-mathieu-2026/genblaze/runs/2026-07-29/86a788b9-e8cd-42d9-a355-562a97669d9b/assets/d05987b4-fbfe-4f21-981b-7bb09e3e488b.jpg",
+  "asset_sha256": "6a1e69f82b93dbfadcaf9f86a672f611bf2f76675ee262d4bf79f7ee1f23c441",
+  "canonical_manifest_hash": "d4ae8034cc836a890a7f498bb512341448563a71230c180dddf0efa96c335e13",
+  "manifest_verified": true,
+  "provider": "pollinations-image",
+  "model": "flux",
+  "actual_provider_cost": 0.0,
+  "credit_type": "Public Pollinations image endpoint; no API key or billing account used"
+}

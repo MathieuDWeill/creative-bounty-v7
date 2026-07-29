@@ -1,0 +1,34 @@
+{
+  "schema": "creative-bounty/release-candidate/v1",
+  "version": "v7",
+  "generated_at_epoch": 1785358668,
+  "checks": [
+    {
+      "name": "pytest",
+      "returncode": 0
+    },
+    {
+      "name": "submission",
+      "returncode": 0
+    },
+    {
+      "name": "scorecard",
+      "returncode": 0
+    },
+    {
+      "name": "sample_api",
+      "returncode": 0
+    },
+    {
+      "name": "replay",
+      "returncode": 0
+    },
+    {
+      "name": "live_replay",
+      "returncode": 0
+    }
+  ],
+  "live_claimed": true,
+  "live_requirement": "Satisfied: verified native Genblaze manifest and Backblaze B2 asset evidence are present.",
+  "sha256": "f4b34639f605afdfb1742c5c260d4e2e563a82bfd3d5dda0841cb9fdaac499ac"
+}

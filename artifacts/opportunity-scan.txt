@@ -1,0 +1,5 @@
+REJECT  PASS    93.0      50000 USD  Runway — Another Big Ad Contest, Volume II
+REVIEW  PASS    78.0     100000 USD  Future Vision XPRIZE — optimistic technology-forward film
+PURSUE  PASS    61.5        150 EUR  15-second launch visual for an AI productivity app
+REVIEW  REVIEW  64.0        300 EUR  Three social campaign images
+REJECT  REJECT   0.0        500 EUR  Hand-drawn identity illustration

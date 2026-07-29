@@ -1,0 +1,71 @@
+{
+  "schema": "creative-bounty/audit-receipt/v1",
+  "opportunity_id": "live-genblaze-nvidia-flux-proof-001",
+  "mode": "LIVE",
+  "created_at": "2026-07-28T00:44:55.777431+00:00",
+  "algorithm": "sha256(sorted(path:sha256))",
+  "file_count": 11,
+  "evidence_root_sha256": "7b9f3c7265190aa03779af9f1daf0f231fd8a09c2580c3a3f98cb1bbdc52dd62",
+  "files": [
+    {
+      "path": "decision-certificate.json",
+      "sha256": "250b8b1afa8cada417ae9ee556fbe636066ef90a5717bdbe8b998f62e9523339",
+      "bytes": 1468
+    },
+    {
+      "path": "economics.json",
+      "sha256": "d639673632cbfb660c3efb7bc66c2590b795d9db37d12d1d8e2d640b517332f4",
+      "bytes": 452
+    },
+    {
+      "path": "eligibility.json",
+      "sha256": "483748b3852b7f628cfbdbc941fa0769949577ce2826716d54f4a4d789d3c3f1",
+      "bytes": 317
+    },
+    {
+      "path": "events.jsonl",
+      "sha256": "41f7b8655e7a0eccbed036d057299901c8f2aa2b4146ae7a47febdbac6fa28f5",
+      "bytes": 2229
+    },
+    {
+      "path": "generations/live-001/genblaze-manifest.json",
+      "sha256": "3178c301571bf719e220249be59fef10078a21295204a88cdcec7be932550421",
+      "bytes": 1948
+    },
+    {
+      "path": "generations/live-001/genblaze-proof.json",
+      "sha256": "779e730380c8881331b1980e53f7c9bdcb8f60543a02d61a4ba7f3e6cd3e4321",
+      "bytes": 451
+    },
+    {
+      "path": "production-plan.json",
+      "sha256": "98ea19fa524517dc453ee5abc084d8aea1fbc1a4be0d969135580e5e1abe53cf",
+      "bytes": 499
+    },
+    {
+      "path": "run.json",
+      "sha256": "ad2b1f1d0cdf9b7e186f638936418457e8af4897a263e66c59e411033edf356a",
+      "bytes": 1330
+    },
+    {
+      "path": "source/opportunity.json",
+      "sha256": "824b715c42e7c11e7fb6b69f68f6c9f6670e4da023f62a325160af45d50c7e80",
+      "bytes": 932
+    },
+    {
+      "path": "source/source-snapshot.json",
+      "sha256": "c15eaeaae3c755108ad019999f34f07ce254f4f7b80a7714161888328ce1aae7",
+      "bytes": 699
+    },
+    {
+      "path": "submission/package.json",
+      "sha256": "de016a2386f0cc4221b478e82bc92a589dbfd6710ce4983e2fa6935c5ab0395f",
+      "bytes": 494
+    }
+  ],
+  "claims": {
+    "is_genblaze_manifest": false,
+    "is_blockchain_proof": false,
+    "purpose": "portable tamper detection for the CREATIVE//BOUNTY evidence bundle"
+  }
+}

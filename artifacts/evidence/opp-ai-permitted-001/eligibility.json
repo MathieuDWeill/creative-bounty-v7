@@ -1,0 +1,9 @@
+{
+  "decision": "PASS",
+  "confidence": 0.95,
+  "reasons": [
+    "Source evidence explicitly permits generative AI.",
+    "AI-use disclosure must accompany submission."
+  ],
+  "evidence": "SAMPLE RULE: Generative AI is explicitly allowed when disclosed."
+}

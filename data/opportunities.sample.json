@@ -1,0 +1,11 @@
+[
+  {
+    "id":"opp-ai-permitted-001","source":"Sample Creative Marketplace","title":"15-second launch visual for an AI productivity app","url":"https://example.invalid/opportunity/1","reward":150,"currency":"EUR","deadline":"2026-08-01T18:00:00+02:00","media_type":"video","deliverables":["15s vertical video","thumbnail"],"ai_policy":"Explicitly allowed","disclosure_required":true,"commercial_rights_required":true,"policy_evidence":"SAMPLE RULE: Generative AI is explicitly allowed when disclosed.","sample":true
+  },
+  {
+    "id":"opp-unclear-002","source":"Sample Brand Brief","title":"Three social campaign images","url":"https://example.invalid/opportunity/2","reward":300,"currency":"EUR","deadline":"2026-08-02T18:00:00+02:00","media_type":"image","deliverables":["3 images"],"ai_policy":"Not specified","disclosure_required":false,"commercial_rights_required":true,"policy_evidence":"SAMPLE RULE: Brief does not mention AI usage.","sample":true
+  },
+  {
+    "id":"opp-prohibited-003","source":"Sample Design Contest","title":"Hand-drawn identity illustration","url":"https://example.invalid/opportunity/3","reward":500,"currency":"EUR","deadline":"2026-08-03T10:00:00+02:00","media_type":"image","deliverables":["identity illustration"],"ai_policy":"Generative AI prohibited","disclosure_required":false,"commercial_rights_required":true,"policy_evidence":"SAMPLE RULE: Entries created with generative AI are not allowed.","sample":true
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "schema": "creative-bounty/decision-certificate/v1",
+  "issued_at": "2026-07-29T20:57:47.713741+00:00",
+  "opportunity_id": "opp-ai-permitted-001",
+  "mode": "SAMPLE",
+  "source": {
+    "url": "https://example.invalid/opportunity/1",
+    "sample": true
+  },
+  "reward": {
+    "amount": 150.0,
+    "currency": "EUR"
+  },
+  "rights": {
+    "decision": "PASS",
+    "confidence": 0.95,
+    "reasons": [
+      "Source evidence explicitly permits generative AI.",
+      "AI-use disclosure must accompany submission."
+    ],
+    "evidence": "SAMPLE RULE: Generative AI is explicitly allowed when disclosed."
+  },
+  "economics": {
+    "score": 61.5,
+    "estimated_cost": 0.0,
+    "max_attempts": 3,
+    "rationale": [
+      "Reward contributes 13.5/45 points.",
+      "Media complexity penalty is 22 points.",
+      "Rights decision contributes 25 points.",
+      "Maximum planned generation spend is 0.0000 EUR.",
+      "Available authorized generation budget is 0.0000 EUR.",
+      "No probability of winning is fabricated; this is a deterministic prioritization heuristic."
+    ],
+    "pursue": true
+  },
+  "budget": {
+    "available": 0.0,
+    "currency": "EUR"
+  },
+  "decision": "PURSUE",
+  "truth": {
+    "reward_is_revenue": false,
+    "qualified_is_won": false,
+    "sample_is_live": false
+  },
+  "certificate_sha256": "29444481a40d15d53514c155ff9b5d207bdbc5e5fe6b0f589c75962355adcdc7"
+}

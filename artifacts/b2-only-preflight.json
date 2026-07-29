@@ -1,0 +1,32 @@
+{
+  "schema": "creative-bounty/b2-only-preflight/v1",
+  "bucket": "creative-bounty-mathieu-2026",
+  "region": "us-east-005",
+  "provider_generation_started": false,
+  "secrets_echoed": false,
+  "authenticated": {
+    "list_bucket": true,
+    "listed_object_count": 0
+  },
+  "bucket_properties": {
+    "default_encryption_enabled": true,
+    "default_encryption_algorithms": [
+      "AES256"
+    ],
+    "object_lock_enabled": true,
+    "object_lock_default_retention_present": false,
+    "public_access_block": {}
+  },
+  "private_access": {
+    "anonymous_list_status": 403,
+    "anonymous_list_blocked": true
+  },
+  "write_read_delete_probe": {
+    "key_prefix": "preflight/",
+    "put": true,
+    "head": true,
+    "read_sha256_verified": true,
+    "delete": true
+  },
+  "b2_verified": true
+}

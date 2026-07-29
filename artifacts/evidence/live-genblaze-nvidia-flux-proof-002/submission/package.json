@@ -1,0 +1,18 @@
+{
+  "schema": "creative-bounty/submission-package-v1",
+  "status": "BLOCKED",
+  "sample": false,
+  "opportunity_id": "live-genblaze-nvidia-flux-proof-002",
+  "source_url": "https://example.invalid/opportunity/1",
+  "advertised_reward": {
+    "amount": 150.0,
+    "currency": "EUR"
+  },
+  "ai_rights_decision": "PASS",
+  "disclosure_required": true,
+  "accepted_attempt": null,
+  "claim_policy": {
+    "reward_is_not_revenue": true,
+    "sample_assets_are_not_real_provider_outputs": false
+  }
+}

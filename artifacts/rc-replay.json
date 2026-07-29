@@ -1,0 +1,11 @@
+{
+  "name": "replay",
+  "command": [
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/.venv/bin/python",
+    "scripts/replay_evidence.py",
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/artifacts/evidence/opp-ai-permitted-001"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"opportunity_id\": \"opp-ai-permitted-001\",\n  \"mode\": \"SAMPLE\",\n  \"verified\": true,\n  \"audit_verified\": true,\n  \"certificate_verified\": true,\n  \"accepted_attempt\": 2,\n  \"event_count\": 132,\n  \"generation_count\": 2,\n  \"errors\": []\n}\n",
+  "stderr": ""
+}

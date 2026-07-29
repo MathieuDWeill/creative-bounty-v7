@@ -1,0 +1,36 @@
+{
+  "live_ready": true,
+  "missing": [],
+  "credentials": {
+    "B2_KEY_ID": true,
+    "B2_APP_KEY": true,
+    "B2_BUCKET": true,
+    "OPENAI_API_KEY": false,
+    "GOOGLE_API_KEY": false,
+    "GEMINI_API_KEY": true,
+    "GOOGLE_GENAI_API_KEY": false,
+    "GOOGLE_APPLICATION_CREDENTIALS": false,
+    "NVIDIA_API_KEY": true,
+    "NVIDIA_NIM_API_KEY": false
+  },
+  "b2_bucket": {
+    "checked": true,
+    "accessible": true,
+    "listed_object_count": 0
+  },
+  "genblaze_versions": {
+    "genblaze-core": "0.3.7",
+    "genblaze-s3": "0.3.6",
+    "genblaze-openai": "0.3.3",
+    "google-genai": "2.14.0",
+    "genblaze-nvidia": "0.3.2"
+  },
+  "provider": "google",
+  "ffmpeg": true,
+  "mode": "SAMPLE",
+  "safety": {
+    "secrets_echoed": false,
+    "live_execution_started": false,
+    "provider_cost_incurred": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "opportunity_id": "live-future-vision-xprize-2026",
+  "title": "Future Vision XPRIZE — optimistic technology-forward film",
+  "url": "https://futurevisionxprize.com/rules",
+  "sample": false,
+  "captured_at": "2026-07-26T17:35:20.932446+00:00",
+  "source_evidence": {
+    "url": "https://futurevisionxprize.com/rules",
+    "verified_at": "2026-07-26T19:00:00+02:00",
+    "facts": [
+      "Deadline August 15, 2026.",
+      "AI-generated content and hybrid formats are explicitly accepted.",
+      "Any production tools may be used.",
+      "Grand-prize cash component is $100,000; runner-up awards are also cash prizes.",
+      "Finalists have rights/exclusivity and attendance obligations that require human review."
+    ],
+    "source_kind": "official",
+    "live": true
+  },
+  "assertions": {
+    "reward": 100000.0,
+    "currency": "USD",
+    "deadline": "2026-08-15T23:59:00-07:00",
+    "ai_permission_explicit": true,
+    "ai_prohibition_explicit": false,
+    "requires_paid_plan": false,
+    "mandatory_platform": null,
+    "entry_cost": null,
+    "entry_cost_verified": false,
+    "human_review_flags": [
+      "Submission grants temporary exclusivity through the winner announcement.",
+      "Cash-prize eligibility requires in-person attendance at the September 25 finals.",
+      "No explicit entry-fee statement was located in the rules snapshot; verify before pursuing."
+    ]
+  },
+  "snapshot_sha256": "e3a6403a468ac17d031b08efa4ee4d35cc0b30e6b29edf9e225ca345fa08c964"
+}

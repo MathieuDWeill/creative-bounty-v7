@@ -1,0 +1,101 @@
+{
+  "schema": "creative-bounty/audit-receipt/v1",
+  "opportunity_id": "opp-ai-permitted-001",
+  "mode": "SAMPLE",
+  "created_at": "2026-07-29T20:57:47.754821+00:00",
+  "algorithm": "sha256(sorted(path:sha256))",
+  "file_count": 17,
+  "evidence_root_sha256": "96527d1732f1c435ca0f1235278979c0fb9313c114a4477801afc2ca2a1d40bd",
+  "files": [
+    {
+      "path": "decision-certificate.json",
+      "sha256": "9d6355362d3e4c359106a038217f72366ba2092e5aa11d81da1f5113ed2c331d",
+      "bytes": 1394
+    },
+    {
+      "path": "economics.json",
+      "sha256": "d639673632cbfb660c3efb7bc66c2590b795d9db37d12d1d8e2d640b517332f4",
+      "bytes": 452
+    },
+    {
+      "path": "eligibility.json",
+      "sha256": "5d8b605e704afa5540b7a091498aded51e1be3069c99c80d48cdf7aee008d9fe",
+      "bytes": 256
+    },
+    {
+      "path": "events.jsonl",
+      "sha256": "fa2ad308d2b03d8e529cee836e62dad7c12ab53cbfd978e257c4b5e4b1909af2",
+      "bytes": 30218
+    },
+    {
+      "path": "generations/attempt-001/asset.png",
+      "sha256": "a4ccad32fcd1c10849e8d85d9b3c8127649aec309f015c0ea500af82d84f7d19",
+      "bytes": 14626
+    },
+    {
+      "path": "generations/attempt-001/evaluation.json",
+      "sha256": "f19202eeba893daab647276723dea3df27a0e2abfc1249a456772cf75e5b886f",
+      "bytes": 95
+    },
+    {
+      "path": "generations/attempt-001/integrity.json",
+      "sha256": "93d4fe9282b3285955de1c9bafc4c01b582405dd49ad1e65db49fc36a520452c",
+      "bytes": 241
+    },
+    {
+      "path": "generations/attempt-001/manifest.json",
+      "sha256": "5b0c64fb9053f99c026a932612a3866341f76d2def6e51981ef483690fff8bf9",
+      "bytes": 323
+    },
+    {
+      "path": "generations/attempt-002/asset.png",
+      "sha256": "e822952617fac8cc020e61495a8226031aff664b78d8f631d990c2ff693b3807",
+      "bytes": 13989
+    },
+    {
+      "path": "generations/attempt-002/evaluation.json",
+      "sha256": "131e43ae125f751633e112d218dcf1bd7a36530f5bf26e8061895b2a04a7f4bd",
+      "bytes": 57
+    },
+    {
+      "path": "generations/attempt-002/integrity.json",
+      "sha256": "6d1ff40b7c5b1bce8b08954870c90ae8700a48b8d3f2fc640f7cdd5c4a1f5fef",
+      "bytes": 241
+    },
+    {
+      "path": "generations/attempt-002/manifest.json",
+      "sha256": "c4ca1a60554d8f03727653fd1faf3e477fea014b3ee92390a46d3fdb5737b506",
+      "bytes": 323
+    },
+    {
+      "path": "production-plan.json",
+      "sha256": "06934f77c70ca8ac085c9ed25cece2be0145ff04cdcb637121a1a2f0de262893",
+      "bytes": 486
+    },
+    {
+      "path": "run.json",
+      "sha256": "cb8f97b8d37296551f4bd2c5213a40d35f91ddd784f32f3e921c74b8a7a2913e",
+      "bytes": 1743
+    },
+    {
+      "path": "source/opportunity.json",
+      "sha256": "4e239a62afa3602f69ad1704b7d4dcec5f8ea8f71942efde6edb522feefb9a39",
+      "bytes": 846
+    },
+    {
+      "path": "source/source-snapshot.json",
+      "sha256": "49c1e4f11008527b5c75874a4add1b7462dc7cd905b0aad1f821111c6b87aa42",
+      "bytes": 686
+    },
+    {
+      "path": "submission/package.json",
+      "sha256": "3d71a17a3e663917cf38630d364eaf24df8f1117867d45c751f6106e19520eec",
+      "bytes": 472
+    }
+  ],
+  "claims": {
+    "is_genblaze_manifest": false,
+    "is_blockchain_proof": false,
+    "purpose": "portable tamper detection for the CREATIVE//BOUNTY evidence bundle"
+  }
+}

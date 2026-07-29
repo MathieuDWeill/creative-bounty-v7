@@ -1,0 +1,35 @@
+{
+  "criteria": [
+    {
+      "name": "Real-World Utility",
+      "score": 23,
+      "max_score": 25,
+      "evidence": "Paid-demand-first workflow + real curated opportunity radar",
+      "status": "READY"
+    },
+    {
+      "name": "Production Readiness",
+      "score": 23,
+      "max_score": 25,
+      "evidence": "Fail-closed gates, state machine, replay, receipts, CI/tests",
+      "status": "READY"
+    },
+    {
+      "name": "B2 Storage & Data Orchestration",
+      "score": 25,
+      "max_score": 25,
+      "evidence": "Verified B2/Genblaze proof present",
+      "status": "VERIFIED"
+    },
+    {
+      "name": "Use of Genblaze",
+      "score": 25,
+      "max_score": 25,
+      "evidence": "Native Genblaze manifest proof verified",
+      "status": "VERIFIED"
+    }
+  ],
+  "total": 96,
+  "max_total": 100,
+  "live_proof_present": true
+}

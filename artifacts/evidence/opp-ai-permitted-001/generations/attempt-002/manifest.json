@@ -1,0 +1,9 @@
+{
+  "schema": "creative-bounty/sample-manifest-v1",
+  "sample": true,
+  "provider": "sample-provider",
+  "model": "deterministic-demo-v1",
+  "sha256": "e822952617fac8cc020e61495a8226031aff664b78d8f631d990c2ff693b3807",
+  "opportunity_id": "opp-ai-permitted-001",
+  "warning": "This is NOT a Genblaze provenance manifest."
+}

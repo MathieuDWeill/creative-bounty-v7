@@ -1,0 +1,32 @@
+{
+  "opportunity_id": "live-runway-big-ad-2026",
+  "title": "Runway — Another Big Ad Contest, Volume II",
+  "url": "https://runway.com/AnotherBigAdContest",
+  "sample": false,
+  "captured_at": "2026-07-26T17:35:20.932760+00:00",
+  "source_evidence": {
+    "url": "https://runway.com/AnotherBigAdContest",
+    "verified_at": "2026-07-26T19:00:00+02:00",
+    "facts": [
+      "Submission deadline July 31, 2026.",
+      "Grand prize is $50,000 cash; places 2–15 also receive cash.",
+      "All generative video must be created in Runway.",
+      "An active paid Runway plan is required at submission."
+    ],
+    "source_kind": "official",
+    "live": true
+  },
+  "assertions": {
+    "reward": 50000.0,
+    "currency": "USD",
+    "deadline": "2026-07-31T23:59:00-07:00",
+    "ai_permission_explicit": true,
+    "ai_prohibition_explicit": false,
+    "requires_paid_plan": true,
+    "mandatory_platform": "Runway",
+    "entry_cost": null,
+    "entry_cost_verified": false,
+    "human_review_flags": []
+  },
+  "snapshot_sha256": "433b65fef34f23797a59b04d2d626e16f93112a50f4f6dc89f499e08d6b0d60b"
+}

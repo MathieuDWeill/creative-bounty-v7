@@ -1,0 +1,14 @@
+{
+  "score": 61.5,
+  "estimated_cost": 0.0,
+  "max_attempts": 3,
+  "rationale": [
+    "Reward contributes 13.5/45 points.",
+    "Media complexity penalty is 22 points.",
+    "Rights decision contributes 25 points.",
+    "Maximum planned generation spend is 0.0000 EUR.",
+    "Available authorized generation budget is 0.0000 EUR.",
+    "No probability of winning is fabricated; this is a deterministic prioritization heuristic."
+  ],
+  "pursue": true
+}

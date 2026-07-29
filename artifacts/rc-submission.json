@@ -1,0 +1,10 @@
+{
+  "name": "submission",
+  "command": [
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/.venv/bin/python",
+    "scripts/validate_submission.py"
+  ],
+  "returncode": 0,
+  "stdout": "submission validation: PASS\n",
+  "stderr": ""
+}

@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pyc
+artifacts/live/
+.DS_Store
+.genblaze-cache/
+*.egg-info/
+artifacts/judge-pack/
+artifacts/release_media/
+creative-bounty-v7-judge-pack/
+**/__pycache__/

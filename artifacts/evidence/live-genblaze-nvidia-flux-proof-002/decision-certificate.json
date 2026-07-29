@@ -1,0 +1,48 @@
+{
+  "schema": "creative-bounty/decision-certificate/v1",
+  "issued_at": "2026-07-28T00:53:42.913913+00:00",
+  "opportunity_id": "live-genblaze-nvidia-flux-proof-002",
+  "mode": "LIVE",
+  "source": {
+    "url": "https://example.invalid/opportunity/1",
+    "sample": true
+  },
+  "reward": {
+    "amount": 150.0,
+    "currency": "EUR"
+  },
+  "rights": {
+    "decision": "PASS",
+    "confidence": 0.95,
+    "reasons": [
+      "Source evidence explicitly permits generative AI.",
+      "AI-use disclosure must accompany submission."
+    ],
+    "evidence": "SAMPLE RULE: Generative AI is explicitly allowed when disclosed. Controlled proof run; no marketplace/customer/revenue claim."
+  },
+  "economics": {
+    "score": 61.5,
+    "estimated_cost": 0.0,
+    "max_attempts": 3,
+    "rationale": [
+      "Reward contributes 13.5/45 points.",
+      "Media complexity penalty is 22 points.",
+      "Rights decision contributes 25 points.",
+      "Maximum planned generation spend is 0.0000 EUR.",
+      "Available authorized generation budget is 0.0000 EUR.",
+      "No probability of winning is fabricated; this is a deterministic prioritization heuristic."
+    ],
+    "pursue": true
+  },
+  "budget": {
+    "available": 0.0,
+    "currency": "EUR"
+  },
+  "decision": "PURSUE",
+  "truth": {
+    "reward_is_revenue": false,
+    "qualified_is_won": false,
+    "sample_is_live": false
+  },
+  "certificate_sha256": "162d8c443a9a1a06873d63591bb206bdb2b1316f62b40c43a2901cf848dae700"
+}

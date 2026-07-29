@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:14,000
+CREATIVE//BOUNTY is a verifiable AI content production pipeline built with Genblaze and Backblaze B2.
+
+2
+00:00:14,000 --> 00:00:32,000
+Everyone can generate content now. The harder question is proving why it was generated, when rights allowed it, what budget authorized it, and where the evidence is stored.
+
+3
+00:00:32,000 --> 00:00:54,000
+The product starts with an opportunity, then passes through rights, economics, budget authorization, generation, Genblaze orchestration, a provider, Backblaze B2 storage, manifest verification, and replay.
+
+4
+00:00:54,000 --> 00:01:12,000
+The demo interface shows the opportunity radar and keeps SAMPLE mode clearly separated from LIVE evidence. It does not present advertised rewards as revenue.
+
+5
+00:01:12,000 --> 00:01:36,000
+The verified LIVE run used the free Pollinations image endpoint through Genblaze. Provider cost is recorded as zero point zero. The asset was persisted to Backblaze B2, and its SHA two fifty six hash was verified.
+
+6
+00:01:36,000 --> 00:01:54,000
+The native Genblaze manifest hash is d4ae8034cc836a890a7f498bb512341448563a71230c180dddf0efa96c335e13, and manifest dot verify returns true.
+
+7
+00:01:54,000 --> 00:02:10,000
+Replay reconstructs the evidence without making another provider call. The LIVE bundle verifies with one accepted attempt and no replay errors.
+
+8
+00:02:10,000 --> 00:02:26,000
+The evidence endpoint exposes the files, events, audit receipt status, and source trail for the run.
+
+9
+00:02:26,000 --> 00:02:44,000
+The Judge Pack includes sample evidence, failed attempts, and verified live evidence. Failed attempts remain included because truthfulness is part of the product.
+
+10
+00:02:44,000 --> 00:02:58,000
+The scorecard is evidence backed. It reaches ninety six out of one hundred only after the B2 asset and native Genblaze manifest are verified.
+
+11
+00:02:58,000 --> 00:03:12,000
+This is not another image generator. It is a verifiable AI production pipeline.

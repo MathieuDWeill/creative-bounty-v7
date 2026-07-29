@@ -1,0 +1,91 @@
+{
+  "schema": "creative-bounty/final-submission-manifest/v1",
+  "created_at": "2026-07-29T20:58:16.670327+00:00",
+  "live_evidence_id": "live-genblaze-pollinations-flux-proof-001",
+  "video": {
+    "format": "mp4",
+    "resolution": "1920x1080",
+    "codec": "H.264",
+    "fps": 30,
+    "subtitles_burned_in": true
+  },
+  "voice": "Microsoft Edge TTS en-US-AndrewNeural",
+  "music": "none; no local royalty-free music asset was available",
+  "live_proof": {
+    "sample": false,
+    "provider_url": "https://s3.us-east-005.backblazeb2.com/creative-bounty-mathieu-2026/genblaze/runs/2026-07-29/86a788b9-e8cd-42d9-a355-562a97669d9b/assets/d05987b4-fbfe-4f21-981b-7bb09e3e488b.jpg",
+    "asset_sha256": "6a1e69f82b93dbfadcaf9f86a672f611bf2f76675ee262d4bf79f7ee1f23c441",
+    "canonical_manifest_hash": "d4ae8034cc836a890a7f498bb512341448563a71230c180dddf0efa96c335e13",
+    "manifest_verified": true,
+    "provider": "pollinations-image",
+    "model": "flux",
+    "actual_provider_cost": 0.0,
+    "credit_type": "Public Pollinations image endpoint; no API key or billing account used"
+  },
+  "files": [
+    {
+      "path": "FINAL_REPORT.md",
+      "bytes": 3747
+    },
+    {
+      "path": "README.pdf",
+      "bytes": 9345
+    },
+    {
+      "path": "architecture.png",
+      "bytes": 46491
+    },
+    {
+      "path": "creative-bounty-v7-judge-pack.zip",
+      "bytes": 81453
+    },
+    {
+      "path": "devpost-final.md",
+      "bytes": 3172
+    },
+    {
+      "path": "narration.txt",
+      "bytes": 1634
+    },
+    {
+      "path": "screenshots/evidence.png",
+      "bytes": 152146
+    },
+    {
+      "path": "screenshots/home.png",
+      "bytes": 521823
+    },
+    {
+      "path": "screenshots/replay.png",
+      "bytes": 21534
+    },
+    {
+      "path": "screenshots/scorecard.png",
+      "bytes": 43910
+    },
+    {
+      "path": "screenshots/status.png",
+      "bytes": 45150
+    },
+    {
+      "path": "submission_checklist.md",
+      "bytes": 748
+    },
+    {
+      "path": "subtitles.srt",
+      "bytes": 1988
+    },
+    {
+      "path": "thumbnail.png",
+      "bytes": 83232
+    },
+    {
+      "path": "video.mp4",
+      "bytes": 3795512
+    },
+    {
+      "path": "video_manifest.json",
+      "bytes": 2160
+    }
+  ]
+}

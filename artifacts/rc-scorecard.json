@@ -1,0 +1,10 @@
+{
+  "name": "scorecard",
+  "command": [
+    "/Users/mathieu/Project/07_Devpost/creative-bounty-v7/.venv/bin/python",
+    "scripts/judge_scorecard.py"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"criteria\": [\n    {\n      \"name\": \"Real-World Utility\",\n      \"score\": 23,\n      \"max_score\": 25,\n      \"evidence\": \"Paid-demand-first workflow + real curated opportunity radar\",\n      \"status\": \"READY\"\n    },\n    {\n      \"name\": \"Production Readiness\",\n      \"score\": 23,\n      \"max_score\": 25,\n      \"evidence\": \"Fail-closed gates, state machine, replay, receipts, CI/tests\",\n      \"status\": \"READY\"\n    },\n    {\n      \"name\": \"B2 Storage & Data Orchestration\",\n      \"score\": 25,\n      \"max_score\": 25,\n      \"evidence\": \"Verified B2/Genblaze proof present\",\n      \"status\": \"VERIFIED\"\n    },\n    {\n      \"name\": \"Use of Genblaze\",\n      \"score\": 25,\n      \"max_score\": 25,\n      \"evidence\": \"Native Genblaze manifest proof verified\",\n      \"status\": \"VERIFIED\"\n    }\n  ],\n  \"total\": 96,\n  \"max_total\": 100,\n  \"live_proof_present\": true\n}\n",
+  "stderr": ""
+}

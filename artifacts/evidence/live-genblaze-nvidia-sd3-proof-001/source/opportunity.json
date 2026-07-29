@@ -1,0 +1,28 @@
+{
+  "id": "live-genblaze-nvidia-sd3-proof-001",
+  "source": "Controlled CREATIVE//BOUNTY proof brief",
+  "title": "Controlled LIVE Genblaze NVIDIA SD3 proof image",
+  "url": "https://example.invalid/opportunity/1",
+  "reward": 150.0,
+  "currency": "EUR",
+  "deadline": "2026-08-01T18:00:00+02:00",
+  "media_type": "video",
+  "deliverables": [
+    "15s vertical video",
+    "thumbnail"
+  ],
+  "ai_policy": "Explicitly allowed",
+  "disclosure_required": true,
+  "commercial_rights_required": true,
+  "policy_evidence": "SAMPLE RULE: Generative AI is explicitly allowed when disclosed. Controlled proof run; no marketplace/customer/revenue claim.",
+  "sample": true,
+  "status": "DISCOVERED",
+  "source_evidence": null,
+  "ai_permission_explicit": null,
+  "ai_prohibition_explicit": false,
+  "requires_paid_plan": false,
+  "mandatory_platform": null,
+  "entry_cost": null,
+  "entry_cost_verified": false,
+  "human_review_flags": []
+}

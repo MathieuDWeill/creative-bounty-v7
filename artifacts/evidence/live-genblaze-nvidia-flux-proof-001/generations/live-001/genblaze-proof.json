@@ -1,0 +1,12 @@
+{
+  "sample": false,
+  "provider_url": null,
+  "asset_sha256": null,
+  "canonical_manifest_hash": "a208e9ce92128c66a43b1d6df4101591560b02ea2a13e1a6fcbf3e2c288bc337",
+  "manifest_verified": false,
+  "error": "NVIDIA submit failed (transport): The read operation timed out",
+  "provider": "nvidia-image",
+  "model": "black-forest-labs/flux.1-schnell",
+  "actual_provider_cost": "UNKNOWN",
+  "credit_type": "NVIDIA-hosted NIM free development endpoint"
+}

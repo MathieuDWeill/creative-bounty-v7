@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.5",
+  "run": {
+    "run_id": "3701df60-1a87-4c46-bf0d-e5413cdb37d1",
+    "tenant_id": null,
+    "project_id": null,
+    "name": "creative-bounty-live-genblaze-nvidia-flux-proof-002",
+    "status": "failed",
+    "steps": [
+      {
+        "step_id": "3e2002ab-8eba-4a74-8660-006c91d2f715",
+        "run_id": "3701df60-1a87-4c46-bf0d-e5413cdb37d1",
+        "provider": "nvidia-image",
+        "model": "black-forest-labs/flux.1-schnell",
+        "step_type": "generate",
+        "model_version": null,
+        "model_hash": null,
+        "modality": "image",
+        "prompt": "Create a submission-ready video asset for this paid creative brief: Controlled LIVE Genblaze NVIDIA Flux proof image. Required deliverables: 15s vertical video, thumbnail. Respect the brief faithfully; do not invent brand claims.",
+        "negative_prompt": null,
+        "prompt_visibility": "public",
+        "seed": null,
+        "params": {},
+        "status": "failed",
+        "inputs": [],
+        "assets": [],
+        "provider_payload": {},
+        "retries": 0,
+        "cost_usd": null,
+        "error": "NVIDIA submit failed (transport): The read operation timed out",
+        "error_code": "timeout",
+        "started_at": "2026-07-28T00:48:41.876824Z",
+        "completed_at": "2026-07-28T00:53:41.900902Z",
+        "step_index": 0,
+        "metadata": {}
+      }
+    ],
+    "parent_run_id": null,
+    "idempotency_key": null,
+    "created_at": "2026-07-28T00:53:41.922406Z",
+    "started_at": "2026-07-28T00:48:41.855584Z",
+    "completed_at": "2026-07-28T00:53:41.922692Z",
+    "metadata": {}
+  },
+  "canonical_hash": "40923c1cc8840f83e503e69bf20ea05c8c56d52e6d344f280a91385f192736ae",
+  "manifest_uri": "https://s3.us-east-005.backblazeb2.com/creative-bounty-mathieu-2026/genblaze/runs/2026-07-28/3701df60-1a87-4c46-bf0d-e5413cdb37d1/manifest.json",
+  "encryption_scheme": null,
+  "signature": null,
+  "transfer_failures": []
+}

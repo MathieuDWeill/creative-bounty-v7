@@ -1,0 +1,21 @@
+{
+  "opportunity_id": "live-genblaze-nvidia-flux-proof-002",
+  "title": "Controlled LIVE Genblaze NVIDIA Flux proof image",
+  "url": "https://example.invalid/opportunity/1",
+  "sample": true,
+  "captured_at": "2026-07-28T00:45:23.229437+00:00",
+  "source_evidence": null,
+  "assertions": {
+    "reward": 150.0,
+    "currency": "EUR",
+    "deadline": "2026-08-01T18:00:00+02:00",
+    "ai_permission_explicit": null,
+    "ai_prohibition_explicit": false,
+    "requires_paid_plan": false,
+    "mandatory_platform": null,
+    "entry_cost": null,
+    "entry_cost_verified": false,
+    "human_review_flags": []
+  },
+  "snapshot_sha256": "245b0f8fcf3584db43ef2d3ec903b22e6615860d622ef164497ec18afb570e40"
+}

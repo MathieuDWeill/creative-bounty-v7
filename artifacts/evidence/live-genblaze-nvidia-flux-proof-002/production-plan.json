@@ -1,0 +1,10 @@
+{
+  "opportunity_id": "live-genblaze-nvidia-flux-proof-002",
+  "modality": "video",
+  "prompt": "Create a submission-ready video asset for this paid creative brief: Controlled LIVE Genblaze NVIDIA Flux proof image. Required deliverables: 15s vertical video, thumbnail. Respect the brief faithfully; do not invent brand claims.",
+  "target_quality": 80.0,
+  "max_attempts": 3,
+  "estimated_max_spend": 0.0,
+  "disclosure_text": "AI-generated media; disclose use of generative AI.",
+  "blockers": []
+}
